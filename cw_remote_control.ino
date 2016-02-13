@@ -39,7 +39,7 @@ Version History
 
 // Options and Features - uncomment lines to add functionality
 
-// #define OPTION_CW_DECODER_GOERTZEL_AUDIO_DETECTOR   // uncomment this to use Goertzel audio detectot and pin_cw_decoder_audio_input as audio input
+// #define OPTION_CW_DECODER_GOERTZEL_AUDIO_DETECTOR   // uncomment this to use Goertzel audio detector and pin_cw_decoder_audio_input as audio input
 
 #define INITIAL_WPM 20
 #define PRIMARY_SERIAL_PORT &Serial
